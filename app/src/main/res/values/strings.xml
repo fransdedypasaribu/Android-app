@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alat Musik Batak</string>
+    <string name="alat_name">Nama Alat</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="nama_profile">Frans Dedy Pasaribu</string>
+    <string name="email">fransdedypasaribu@gmail.com</string>
+    <string name="detail">detail</string>
+</resources>
